@@ -1,5 +1,6 @@
 package com.electroteach.datepredictor;
-
+// Thu Jul 09 22:45:15 AEST 2020 
+// DatePredictor
 import android.os.Bundle;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import androidx.appcompat.app.AppCompatActivity;
